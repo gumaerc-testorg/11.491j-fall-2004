@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides information on the two major assignments for the
+  course: a take-home final, and a final paper.'
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e72f66cc-93d7-ed7d-59cc-3c71e0ee3dc5
 ---

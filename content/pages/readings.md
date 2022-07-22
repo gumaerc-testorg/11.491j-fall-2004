@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 49ea3cd0-7948-35c9-2fcb-9f948c27d186
 ---
